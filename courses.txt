@@ -1,2 +1,7 @@
 I have completed the InDesign course at Davis Tech.
+<<<<<<< HEAD
 I have complted the javascripmt course at davis tech.
+=======
+I have complted the Photoshop course at Davis Tech.
+I have completed the Ilustatot course at Davis Tech.
+>>>>>>> b45de22a3ba93ee39ec2864ab78eb27858817935
